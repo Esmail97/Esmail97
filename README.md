@@ -20,7 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/esmail-bashir/" target="_blank"><img </a>
+<a href="https://www.linkedin.com/in/esmail-bashir/" target="_blank"> </a>
 
 ### 🛠 &nbsp;Tech Skills
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
