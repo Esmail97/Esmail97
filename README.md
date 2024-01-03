@@ -1,16 +1,15 @@
-### Hi there 👋
+Welcome to Esmail Bashir's profile! 
 
-<!--
-**Esmail97/Esmail97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+📊 I'm a  data scientist
+👨🏻‍💻 As a CS graduate, I'm constantly learning and exploring new technologies.
+🧠 I have some soft skills such as Time management, searching, and talking with people.
+💬 Ask me about my experience with Python, Power BI, and SQL, or anything related to data scientist.
+👨‍💻 Check out my portfolio at https://omarmaher0.github.io/omarmaherr/ to see some of the projects I've worked on.
+Connect with Me :
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+🛠  Tech Skills
+Git  GitHub  Python  MYSQL  Machine Learning  Deep Learning  Natural Language Processing  Data Visualization Power BI 
+
+Follow Me :
