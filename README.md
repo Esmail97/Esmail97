@@ -20,8 +20,7 @@
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/esmail-bashir/" target="_blank"> </a>
-
+<a href="https://www.linkedin.com/in/esmail-bashir/" target="_blank"><img src="https://img.shields.io/badge/Esmail%20Bashir-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Skills
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -31,5 +30,7 @@
 ![Deep Learning](https://img.shields.io/badge/-DL-05122A?style=flat&logo=DL)&nbsp;
 ![Natural Language Processing](https://img.shields.io/badge/-NLP-05122A?style=flat&logo=NLP)&nbsp;
 ![Data Visualization](https://img.shields.io/badge/-Visualization-05122A?style=flat&logo=Visualization)&nbsp;
+![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=PowerBI)&nbsp;
+
 
 
