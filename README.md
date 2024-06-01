@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Data%20Scientist;%20Every%20Day%20is%20a%20learning%20day&font=Fira%20Code&center=true&width=440&height=45&color=ecb306&vCenter=true&size=22"></a>
 </p> 
 
-- 📊 I'm a data scientist
+- 📊 I'm a data analyst
 - 👨🏻‍💻 As a CS graduate, I'm constantly learning and exploring new technologies.
 - 🧠 I have some soft skills such as Time management, searching, and problem solving.
 - 💬 Ask me about my experience with Python, Power BI, and SQL,ML,DL or anything related to data science.
